@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/tab_menu_nearby_selector.xml",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/src/main/res/drawable-nodpi/tab_menu_nearby_selector.xml"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/tab_menu_deal_selector.xml",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/src/main/res/drawable-nodpi/tab_menu_deal_selector.xml"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/tab_menu_text_color_selector.xml",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/src/main/res/drawable-nodpi/tab_menu_text_color_selector.xml"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/tab_menu_more_selector.xml",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/src/main/res/drawable-nodpi/tab_menu_more_selector.xml"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/tab_menu_my_selector.xml",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/src/main/res/drawable-nodpi/tab_menu_my_selector.xml"
+    }
+]

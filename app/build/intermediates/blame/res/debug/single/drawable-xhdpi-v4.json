@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_tab_my_selected.png",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/src/main/res/drawable-xhdpi/ic_tab_my_selected.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_tab_more_unselected.png",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/src/main/res/drawable-xhdpi/ic_tab_more_unselected.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_tab_nearby_unselected.png",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/src/main/res/drawable-xhdpi/ic_tab_nearby_unselected.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_tab_nearby_selected.png",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/src/main/res/drawable-xhdpi/ic_tab_nearby_selected.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_tab_more_selected.png",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/src/main/res/drawable-xhdpi/ic_tab_more_selected.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_tab_deal_selected.png",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/src/main/res/drawable-xhdpi/ic_tab_deal_selected.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_tab_deal_unselected.png",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/src/main/res/drawable-xhdpi/ic_tab_deal_unselected.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_tab_my_unselected.png",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/仿团购底部菜单_2/app/src/main/res/drawable-xhdpi/ic_tab_my_unselected.png"
+    }
+]
